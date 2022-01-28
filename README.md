@@ -1,4 +1,4 @@
-## OpenSea Creatures - Starter ERC721, ERC1155, and factory contracts
+## Creative Social - Starter ERC721, ERC1155, and factory contracts
 
 What's included:
 
